@@ -3,6 +3,7 @@
 ;;;; NOTE: Backed this with local-time.
 ;;;;
 
+;;(require :local-time)
 (in-package :day-to-day)
 
 ;; Example usage: (tdb-time-stamp (get-universal-time))

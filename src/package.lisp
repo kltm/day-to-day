@@ -33,8 +33,8 @@
    :filter
    :plist-keys
    ;; Time.
-   timestamp
-   date-string
-   humanstamp
-   timer
-   seconds))
+   :timestamp
+   :date-string
+   :humanstamp
+   :timer
+   :seconds))
